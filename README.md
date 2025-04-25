@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**mayobanetmorel/mayobanetmorel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mayobanetmorel/mayobanetmorel** 
 
 Here are some ideas to get you started:
 
